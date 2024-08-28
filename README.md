@@ -1,8 +1,8 @@
 # Agarose Gel Electrophoresis Protocol
-Protocol for conducting Agarose Gel Electrophoresis in **Forest Genetics Lab** | Michigan State University
+Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**](https://www.canr.msu.edu/Forest-Genetics-Lab/) | Michigan State University
 
 ## Preparing Agarose Gel (100 ml)
-- [x] Put **1 g of Agarose** powder into a flask, to prepare **1%** gel.
+- Put **1 g of Agarose** powder into a flask, to prepare **1%** gel.
 
   >Gel % (Weight/Volume) = (g of agarose / mL of buffer) x 100%.
   >
@@ -15,7 +15,8 @@ Protocol for conducting Agarose Gel Electrophoresis in **Forest Genetics Lab** |
   >|   0.5           | 30 to 1    |   1.2             | 7 to 0.2   |
   >|   0.7           | 12 to 0.8  |   1.5             | 4 to 0.2   |
   >|   1             | 10 to 0.5  |   2               | 3 to 0.1   |
-  Source: [Qiagen](https://www.qiagen.com/us/knowledge-and-support/knowledge-hub/bench-guide/dna/analysing-dna/dna-analysis-using-analytical-gels)
+  >|                 |            |                   | Source: [Qiagen](https://www.qiagen.com/us/knowledge-and-support/knowledge-hub/bench-guide/dna/analysing-dna/dna-analysis-using-analytical-gels)           |
+  
 
 
 - Add **100 ml** of **1× TAE Buffer**.  
