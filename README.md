@@ -2,16 +2,20 @@
 Protocol for conducting Agarose Gel Electrophoresis in **Forest Genetics Lab** | Michigan State University
 
 ## Preparing Agarose Gel (100 ml)
-- Put **1 g of Agarose** powder into a flask, to prepare **1%** gel. 
-  >Gel % (weight/volume) = (g of agarose / mL of buffer) x 100%. Gel percentage controls pore size, and thereby influences the separation and resolution of nucleic acid fragments. In general, higher-percentage gels result in better separation and resolution of smaller fragments
-  >
-    *Mobility range of DNA in different percentage Agarose gel*
+- [x] Put **1 g of Agarose** powder into a flask, to prepare **1%** gel.
 
-     | Concentration | Range (kb) |   Concentration | Range (kb) |
-     |---------------|------------|-----------------|------------|
-     |   0.5%        | 30 to 1    |   1.2%          | 7 to 0.2   |
-     |   0.7%        | 12 to 0.8  |   1.5%          | 4 to 0.2   |
-     |   1%          | 10 to 0.5  |   2%            | 3 to 0.1   |
+  >Gel % (Weight/Volume) = (g of agarose / mL of buffer) x 100%.
+  >
+  >Gel percentage controls pore size, and thereby influences the separation and resolution of nucleic acid fragments. In general, higher-percentage gels result in better separation and resolution of smaller fragments
+  >
+  >*Mobility range of DNA fragment sizes in different concentration of Agarose gel*:
+  >
+  >|Concentration (%)| Range (kb) | Concentration (%) | Range (kb) |
+  >|-----------------|------------|-------------------|------------|
+  >|   0.5           | 30 to 1    |   1.2             | 7 to 0.2   |
+  >|   0.7           | 12 to 0.8  |   1.5             | 4 to 0.2   |
+  >|   1             | 10 to 0.5  |   2               | 3 to 0.1   |
+  Source: [Qiagen](https://www.qiagen.com/us/knowledge-and-support/knowledge-hub/bench-guide/dna/analysing-dna/dna-analysis-using-analytical-gels)
 
 
 - Add **100 ml** of **1× TAE Buffer**.  
