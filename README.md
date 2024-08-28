@@ -1,10 +1,15 @@
 # Agarose Gel Electrophoresis Protocol
-Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**](https://www.canr.msu.edu/Forest-Genetics-Lab/) | Michigan State University
+Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**](https://www.canr.msu.edu/Forest-Genetics-Lab/) at Michigan State University. 
 
-## Preparing Agarose Gel (100 ml)
+## Preparing Agarose Gel 
+
+>>Agarose gels have larger and less uniform pores (ranging from 100 to 500 nm) compared to acrylamide gels, making them ideal for separating nucleic acids, which typically involve larger fragments than those in protein separations. Additionally, agarose gels provide superior fragment separation in horizontal runs, which are designed for thicker gels (over 2 mm) compared to vertical runs.
+
+<br/>
+
 - Put **1 g of Agarose** powder into a flask, to prepare **1%** gel.
 
-  >Gel % (Weight/Volume) = (g of agarose / mL of buffer) x 100%.
+  >Gel % (Weight/Volume) = (g of agarose / ml of buffer) x 100%.
   >
   >Gel percentage controls pore size, and thereby influences the separation and resolution of nucleic acid fragments. In general, higher-percentage gels result in better separation and resolution of smaller fragments
   >
@@ -12,60 +17,64 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
   >
   >|Concentration (%)| Range (kb) | Concentration (%) | Range (kb) |
   >|-----------------|------------|-------------------|------------|
-  >|   0.5           | 30 to 1    |   1.2             | 7 to 0.2   |
-  >|   0.7           | 12 to 0.8  |   1.5             | 4 to 0.2   |
-  >|   1             | 10 to 0.5  |   2               | 3 to 0.1   |
-  >|                 |            |                   | Source: [Qiagen](https://www.qiagen.com/us/knowledge-and-support/knowledge-hub/bench-guide/dna/analysing-dna/dna-analysis-using-analytical-gels)           |
-  
-
-
-- Add **100 ml** of **1× TAE Buffer**.  
-  > TAE buffer (Tris-acetate with EDTA): better separation of large fragments, has low ionic strength and low buffering capacity, better shorter runs, good for downstream enzymatic application.
-  > TBE buffer (Tris-borate with EDTA): better for shorter fragments, high ionic strength and buffering ability (good for longer runs), less prone to overheating.
-  >  
-    Ensure concentration. If the TBE buffer is not in 1× conc., use formula 
-  >  
-  >  C<sub>1</sub> × V<sub>1</sub> = C<sub>2</sub> × V<sub>2</sub>
-  >  
-  >  C<sub>1</sub> = Conc. of TAE buffer (10× for eg.),
-  > 
-  >  V<sub>1</sub> = needed vol. of TAE buffer,
-  >  
-  >  C<sub>2</sub> = Conc. of 1× buffer to be made),
-  >  
-  >  V<sub>2</sub> = Vol. (100 ml) of 1× buffer to be made
+  >|   0.3           | 60 to 5    |   1.2             | 7 to 0.2   |
+  >|   0.5           | 30 to 1    |   1.5             | 4 to 0.2   |
+  >|   0.7           | 12 to 0.8  |   2.0             | 3 to 0.1   |
+  >|   1.0           | 10 to 0.5  |   3.0             | < 0.1      |
+  >Source: [ThermoFisher Scientific](https://assets.thermofisher.com/TFS-Assets/LED/manuals/D21304~.pdf)   |
   >
-  > V<sub>1</sub>= 1 × 100/10 = 10 ml
-  > 
-  > Therefore, 10 ml of 10× TAE buffer + 90 ml distilled water = 100 ml of 1× TAE buffer
-  > 
-  *prepare more 1× TAE buffer that will be needed to cover the Gel later*
+<br/>
+
+- Add **100 ml** of **1× TAE Buffer**.
+  > *Note: Prepare enough volume of 1× TAE buffer that will be needed to flood the Gel later*.
+  <br/> Consider about **1000 ml**, when using a Horizontal Minigel Systems (model B2) with *800 ml* buffer capacity and *12×14 cm<sup>2</sup>* gel size.
   
-- Microwave to boil/dissolve the Agarose powder completely. 
-    > In doing so, cover the mouth of the flask with plastic wrap (perforate the wrap). Microwave the flask for 30 seconds and swirl the solution for 5 seconds. Microwave again for another 30 seconds, take out and swirl the solution again for 5 seconds. Repeat the 30 S microwaving and swirling until agarose particles are no longer seen. Then leave the solution to cool down.
-    >> To quicken the process: to the 1 g Agarose, add about half of the 100 ml of 1× TAE buffer, microwave to dissolve completely, add the rest of the TAE buffer into it. Doing this, the Gel solution immediately is brought down to 50°-60°C)
+  > **TAE buffer (Tris-acetate with EDTA)**: better separation of large fragments, has low ionic strength and buffering capacity, better shorter runs, good for downstream enzymatic application.<br/>
+  > **TBE buffer (Tris-borate with EDTA)**: better for shorter fragments, has high ionic strength and buffering ability, good for longer runs, less prone to overheating.
+  >
+  > *Ensure concentration. If the TBE buffer is not in 1× conc., use formula*;<br/>
+  >> C<sub>1</sub> × V<sub>1</sub> = C<sub>2</sub> × V<sub>2</sub>
+
+  >>  C<sub>1</sub> = Concentration of TAE buffer (10× for eg.),<br/>
+  >  V<sub>1</sub> = needed volume of TAE buffer,<br/>
+  >  C<sub>2</sub> = Concentration of 1× buffer to be made),<br/>
+  >  V<sub>2</sub> = Volume (1000 ml) of 1× buffer to be made<br/>
+  
+  >> ∴ V<sub>1</sub>= (1 × 1000)/10 = 100 ml <br/>
+  (**100 ml** of <ins>10× TAE buffer</ins> + **900 ml** distilled water = **1000 ml** of <ins>1× TAE buffer<ins>)
+    >
+<br/>
+
+- Microwave the flask to dissolve the Agarose powder completely. 
+    > In doing so, cover the mouth of the flask with plastic wrap (perforate the wrap). Microwave the flask for 30 seconds and swirl the solution for 5 seconds. Microwave again for another 30 seconds, take out and swirl the solution again for 5 seconds. Repeat the 30 second microwaving and swirling until agarose particles are no longer seen. Then leave the solution to cool down to ~60°C.
+    >> To quicken the process: to the 1 g Agarose, add about half of the 100 ml (~50 ml) of 1× TAE buffer, microwave to dissolve completely, add the rest of the TAE buffer into it. Doing this, the Gel solution immediately is brought down to ~60-70°C)
     >
     > **Determining Amount of Agarose to prepare a gel:**
     > 
-    > *Gel width(cm) x gel length (cm) x gel thickness (cm) = ml of agarose*
+    >> *Gel width(cm) x gel length (cm) x gel thickness (cm) = ml of agarose*
     >
-    > Thermo fisher OWL EasyCast B2 : Gel size = 12×14
+    >> Gel size in Thermo fisher OWL EasyCast B2 = 12×14 cm<sup>2</sup>
     >
     > ∴ 
     > 
-    > | To make gel of thickness | Agarose needed is |
+    > | To make gel of thickness of | Agarose needed is |
     > |--------------------------|-------------------|
     > |   0.25 cm                |   42 ml           |
     > |   0.50 cm                |   84 ml           |
     > |   0.75 cm                |   126 ml          |
     > |   1.00 cm                |   168 ml          |
-    
+    >
+    > ∴**100 ml agarose** prepared makes a gel approximately **0.6 cm** thick.
+       >
+<br/> 
+
 - Add 5 µL [**GelRed**](#gelred-protocol) dye or ethidium bromide (EtBr) immediately when the flask can be hold with bare hand (50-60°C). Mix the solution well.
-- Pour the cool solution into the Casting Tray immediately and Put the comb. Push bubbles, if exist, down to the end. Wait for the Gel to solidify (10-15 minutes).
+  
+- Pour the cool solution into the Casting Tray (Gasketed UV Transmissible (UVT) Gel Tray) immediately and insert a comb to form sample wells. Push bubbles, if exist, down to the end. Wait for the Gel to solidify (10-15 minutes).
 
 # Running Gel
-- Place the solidified Gel in an Electrophoresis unit.
-- Pour 1× TAE buffer (the same buffer used in preparing the Gel) from one end of tank of the electrophoresis unit until the Gel is covered by 1-2 mm layer of the buffer
+- Place the solidified Gel in an Electrophoresis unit. Ensure the comb (sample wells) side of the gel is toward the Cathode side.
+- Pour 1× TAE buffer (the same buffer used in preparing the Gel) from one end of tank of the electrophoresis unit until the Gel is covered by 1-2 mm layer of the buffer. Too little buffer may cause the gel to dry out during the run, while excess buffer may decrease DNA mobility and cause band distortion.
 - Take out the comb, pulling up gently and carefully, without breaking the wells in the Gel.
 - Prepare ladder and samples with 6× loading dye (to track how far DNA sample has traveled).
     > Approx. 12 μl of sample can be loaded into each 6 mm wide well, and approx. 4 μl can be loaded into each 2 mm wide well. Therefore, according to the size of the comb used to make the wells, use the volume of sample + loading dye. Keep in mind that overloading a sample or ladder can result in smearing of bands and masking those nearby, resulting in poor resolution, particularly when the fragments are of similar sizes.
@@ -78,7 +87,7 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
     > 100-150 V: Although faster, it may sacrifice some resolution.
     >
     > 
-    > **Thermo scientific Owl Easycast B2 model Running condition**:
+    > [**Thermo scientific Owl Easycast B2 model Running condition**](https://assets.thermofisher.com/TFS-Assets/LED/manuals/D21304~.pdf):
     > 
     > Gel size (W×L) = 12×14 cm2
     > 
