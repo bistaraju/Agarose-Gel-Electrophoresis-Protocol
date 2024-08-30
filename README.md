@@ -114,7 +114,7 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
     > 
 - Carefully take out the Gel slab and place it on UV Transilluminator. Use filter/sheet! Pictures!
 
-
+<br/><br/><br/><br/><br/><br/>
 Explore [Electrophoresis solutions](https://biotium.com/technology/nucleic-acid-gel-stains/?_gl=1*booj3u*_up*MQ..*_ga*MjAyMDM0MTQ3Ny4xNzI0NzY5OTkw*_ga_X4N0G0BL1C*MTcyNDc2OTk5MC4xLjAuMTcyNDc2OTk5MC4wLjAuMTM2NzExMjM3OA..)
 <br/><br/><br/>
 
