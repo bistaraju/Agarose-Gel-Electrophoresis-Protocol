@@ -68,7 +68,7 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
     > |   1.00 cm                |   168 ml          |
     >
     > ∴**100 ml agarose** prepared makes a gel approximately **0.6 cm** thick.
-       >
+       
 <br/> 
 
 - **Add 10 µL [**GelRed**](#gelred-protocol) dye** ~~or ethidium bromide (EtBr)~~ immediately when the flask can be hold with bare hand (50-60°C). Mix the solution well.
@@ -79,25 +79,25 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
   >> 
 <br/><br/><br/>
 # Running Gel
-- **Place the solidified Gel in an Electrophoresis unit** (make sure the unit is not plugged to the power). Ensure the comb (sample wells) side of the gel is toward the Cathode side (black).
+- **Place the solidified Gel in an Electrophoresis unit** (make sure the unit is not plugged to the power). Ensure the comb (sample well) side of the gel is toward the Cathode side (black).
   >
   >> DNA (negative) runs towards anode (red)
-- **Pour 1× TAE buffer (the same buffer used in preparing the Gel) from one end of tank** of the electrophoresis unit until the Gel is covered by 1-2 mm layer of the buffer. *Too little buffer may cause the gel to dry out during the run, while excess buffer may decrease DNA mobility and cause band distortion*.
+- **Pour 1× TBE buffer** (the same buffer used in preparing the Gel) from one end of tank of the electrophoresis unit until the Gel is covered by 1-2 mm by the buffer. *Too little buffer may cause the gel to dry out during the run, while excess buffer may decrease DNA mobility and cause band distortion*.
 - Take out the comb, pulling up gently and carefully, without breaking the wells in the Gel.
-- **Prepare ladder** (pre-cut DNA with known size of fragments, also called standard or marker) **and samples** with **6× DNA loading dye** (to track how far DNA sample has traveled during the run) **and load in the respective well in the Gel**. *DNA samples taken out of -20°C freezer needs to be thawed well. Vortex the samples for 2-4 seconds to ensure even distribution of DNA in the solution.*
+- **Prepare ladder** (pre-cut DNA with known size of fragments, also called standard or marker) **and samples** with **6× DNA loading dye** (to track how far DNA sample has traveled during the run) **and load in the respective well in the Gel**. *DNA samples taken out of -20°C freezer need to be thawed well. Vortex the samples for 2-4 seconds to ensure even distribution of DNA in the solution.*
   >>> Approx. 12 μl of sample can be loaded into each 6 mm wide well, and approx. 4 μl can be loaded into each 2 mm wide well. Therefore, according to the size of the comb used to make the wells, use the volume of sample + loading dye. Keep in mind that overloading a sample or ladder can result in smearing of bands and masking those nearby, resulting in poor resolution, particularly when the fragments are of similar sizes.
   
-  - Place a piece of **parafilm** on a tube rack and make** wells** for each of the ladder and the samples.  *Label the wells*.<br/>
+  - Place a piece of **parafilm** on a tube rack and make **wells** for each of the ladder and the samples.  *Label the wells*.<br/>
     
-  - Add **1 µl loading dye** in each well with a pipette tip. Add **4 µl DNA ladder** into its well. While adding samples to the dye, pipetting up and down carefully for 2-3 times mixes the ladder well with the dye. Then **load the dyed ladder in the first well of the gell**. Ensure the ladder sinks to the bottom of the well. *it typically occupies at least 30% of the well volume. <br/>
+  - Add **1 µl loading dye** in each well with a pipette tip. Add **4 µl DNA ladder** into its well. While adding samples to the dye, pipetting up and down carefully for 3-4 times mixes the ladder well with the dye. Then **load the dyed ladder in the first well of the gell**. Ensure the ladder sinks to the bottom of the well. *it typically occupies at least 30% of the well volume*. <br/>
     
-  - Use seperate pipette tips to **mix each DNA sample and the loading dye in their respective parafilm well**. Load the dyed samples in their respective wells in the gel.  :point_right: *Prepare a sketch in a piece of paper to ensure which sample went to which well*
+  - Use separate pipette tips to **mix each DNA sample and the loading dye in their respective parafilm well**. Load the dyed samples in their respective wells in the gel.  :point_right: *Prepare a sketch in a piece of paper to ensure which sample went to which well*
     > 
-    - **Load the ladder in the first well.** Then load **samples in other wells**. Ensure the ladder and samples sink to the bottom of the well. Final volume of ladder and samples will typically occupy at least 30% of the well volume.
+    - **Load the ladder in the first well.** Then load **samples in other wells**. Ensure the ladder and samples sink to the bottom of the well. The final volume of ladder and samples will typically occupy at least 30% of the well volume.
   
 
 - Supply the power to the Electrophoresis unit to **Run the gel**. 
-    > Put the cover of the electrophoresis unit. Connect Black (Cathode) to Black and Red (Anode) to Red. Set **120 V** potential difference. And, run for **40-50 minutes** or until the dye has migrated to an appropriate distance.
+    > Put the cover of the electrophoresis unit. Connect Black (Cathode) to Black and Red (Anode) to Red. Set **120 V** potential difference and **40-50 minutes** run time, or run until the dye has migrated to an appropriate distance.
     > >How do we know how much voltage is needed?
     > >><1kb DNA fragments: 5-10 V/cm with TBE being the optimal buffer. Run time depends on length of Gel, voltage used, and sizes of sample molecules. Usually, gel is run until the band of interest has migrated 40-60% of the gel length or the dye has migrated 80% of the gel length. Monitor to ensure the smallest molecules do not migrate off the gel.
     > 
