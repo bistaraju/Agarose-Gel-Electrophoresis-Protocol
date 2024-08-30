@@ -45,7 +45,7 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
   >  V<sub>2</sub> = Volume (1000 ml) of 1× buffer to be made<br/>
   
   >> ∴ V<sub>1</sub>= (1 × 1000)/10 = 100 ml <br/>
-  (**100 ml** of <ins>10× </ins>TAE buffer + **900 ml** distilled water = **1000 ml** of <ins>1× </ins>TAE buffer)
+  (**100 ml** of <ins>10× </ins>TBE buffer + **900 ml** distilled water = **1000 ml** of <ins>1× </ins>TBE buffer)
     >
 <br/>
 
