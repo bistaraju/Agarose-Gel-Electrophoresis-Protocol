@@ -12,8 +12,8 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
   >Gel % (Weight/Volume) = (g of agarose / ml of buffer) x 100%.
   >
   > ∴<br/>
-  >1 g Agarose in 100 ml 1× TAE Buffer = 1% agarose gel<br/>
-  >2 g agarose in 100 ml of 1× TAE Buffer = 2% agarose gel, and so on
+  >1 g Agarose in 100 ml 1× TBE Buffer = 1% agarose gel<br/>
+  >2 g agarose in 100 ml of 1× TBE Buffer = 2% agarose gel, and so on
   >
   >Gel percentage controls pore size, and thereby influences the separation and resolution of nucleic acid fragments. In general, higher-percentage gels result in better separation and resolution of smaller fragments
   >
@@ -29,8 +29,8 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
   >
 <br/>
 
-- Add **100 ml** of **1× TAE Buffer**.
-  > :point_right:*Prepare enough volume of 1× TAE buffer that will be needed to flood the Gel later*.
+- Add **100 ml** of **1× TBE Buffer**.
+  > :point_right:*Prepare enough volume of 1× TBE buffer that will be needed to flood the Gel later*.
   >> Consider about **1000 ml** (using a Horizontal Minigel Systems (model B2) with 800 ml buffer capacity and 12×14 cm<sup>2</sup> gel size).
   
   >:small_blue_diamond: **TAE buffer (Tris-acetate with EDTA)**: better separation of large fragments, has low ionic strength and buffering capacity, better shorter runs, good for downstream enzymatic application.<br/>
