@@ -9,6 +9,10 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
 
 - Put **1 g of Agarose** powder into a flask, to prepare **1%** gel.
 
+
+
+
+
   >Gel % (Weight/Volume) = (g of agarose / ml of buffer) x 100%.
   >
   > ∴<br/>
@@ -57,15 +61,14 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
     > **Determining Amount of Agarose to prepare a gel:**<br/> 
     >> *Gel width(cm) x gel length (cm) x gel thickness (cm) = ml (volume) of agarose*
     >
-    >> Gel size in Thermo fisher OWL EasyCast B2 = 12×14 cm<sup>2</sup>
-    >
-    > 
-    > | To make gel of thickness of | Agarose needed is |
-    > |--------------------------|-------------------|
-    > |   0.25 cm                |   42 ml           |
-    > |   0.50 cm                |   84 ml           |
-    > |   0.75 cm                |   126 ml          |
-    > |   1.00 cm                |   168 ml          |
+    >> <ins>Gel size in Thermo fisher OWL EasyCast B2 = 12×14 cm<sup>2</sup><ins>
+    >> 
+    >> | To make gel of thickness of | Agarose needed is |
+    >> |--------------------------|-------------------|
+    >> |   0.25 cm                |   42 ml           |
+    >> |   0.50 cm                |   84 ml           |
+    >> |   0.75 cm                |   126 ml          |
+    >> |   1.00 cm                |   168 ml          |
     >
     > ∴**100 ml agarose** prepared makes a gel approximately **0.6 cm** thick.
        
