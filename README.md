@@ -7,17 +7,34 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
 
 <br/>
 
-- Put **1 g of Agarose** powder into a flask, to prepare **1%** gel.
+- Put **1.26 g of Agarose** powder into a flask, to prepare **126 ml** of **1%** gel.
 
-
-
-
-
+    >
+    > **Determining Amount of Agarose to prepare a gel:**<br/> 
+    >> *Gel width(cm) x gel length (cm) x gel thickness (cm) = ml (volume) of agarose*
+    >
+    >> <ins>Gel size in Thermo fisher OWL EasyCast B2 = 12×14 cm<sup>2</sup><ins>
+    >> 
+    >> | To make gel of thickness of | Agarose needed is |
+    >> |--------------------------|-------------------|
+    >> |   0.25 cm                |   42 ml           |
+    >> |   0.50 cm                |   84 ml           |
+    >> |   0.75 cm                |   126 ml          |
+    >> |   1.00 cm                |   168 ml          |
+    >
+    > ∴ **126 ml** agarose prepared makes a gel of **0.75 cm** thick.
+    > (**100 ml agarose** prepared makes a gel approximately **0.6 cm** thick)
+    >       
+    ><br/>
+    
+    > **Determining Gel %**:
+    >
   >Gel % (Weight/Volume) = (g of agarose / ml of buffer) x 100%.
   >
   > ∴<br/>
-  >1 g Agarose in 100 ml 1× TBE Buffer = 1% agarose gel<br/>
-  >2 g agarose in 100 ml of 1× TBE Buffer = 2% agarose gel, and so on
+  >1 g Agarose in 100 ml 1× TBE Buffer = 1% agarose gel,<br/>
+  >2 g agarose in 100 ml of 1× TBE Buffer = 2% agarose gel,<br/>
+  > 1.26 g agarose in 126 ml 1× TBE Buffer = 1% agarose gel, and so on
   >
   >Gel percentage controls pore size, and thereby influences the separation and resolution of nucleic acid fragments. In general, higher-percentage gels result in better separation and resolution of smaller fragments
   >
