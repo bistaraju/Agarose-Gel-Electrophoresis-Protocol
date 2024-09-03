@@ -29,7 +29,7 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
     > (**100 ml agarose** prepared makes a gel approximately **0.6 cm** thick)
     >       
     ><br/>
-    
+    >
     > **Determining Gel %**:
     >
   >Gel % (Weight/Volume) = (g of agarose / ml of buffer) x 100%.<br/>
@@ -54,7 +54,7 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
 - Add **126 ml** of **1× TBE Buffer**.
   > :point_right:*Prepare enough volume of 1× TBE buffer that will be needed to flood the Gel later*.
   >> Consider about **800 ml** (using a Horizontal Minigel Systems (model B2) with 800 ml buffer capacity and 12×14 cm<sup>2</sup> gel size).
-  
+  >
   >:small_blue_diamond: **TAE buffer (Tris-acetate with EDTA)**: better separation of large fragments, has low ionic strength and buffering capacity, better shorter runs, good for downstream enzymatic application.<br/>
   >:small_blue_diamond: **TBE buffer (Tris-borate with EDTA)**: better for shorter fragments, has high ionic strength and buffering ability, good for longer runs, less prone to overheating.
   >
@@ -65,7 +65,7 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
   >  V<sub>1</sub> = needed volume of TAE buffer,<br/>
   >  C<sub>2</sub> = Concentration of 1× buffer to be made),<br/>
   >  V<sub>2</sub> = Volume (1000 ml) of 1× buffer to be made<br/>
-  
+  >
   >> ∴ V<sub>1</sub>= (1 × 800)/10 = 80 ml <br/>
   (**80 ml** of <ins>10× </ins>TBE buffer + **720 ml** distilled water = **800 ml** of <ins>1× </ins>TBE buffer)
     >
@@ -76,21 +76,24 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
   > In doing so, cover the mouth of the flask with plastic wrap (perforate the wrap). Microwave the flask for 30 seconds and swirl the solution for 5 seconds. Microwave again for another 30 seconds, take out and swirl the solution again for 5 seconds. Repeat the 30 second microwaving and swirling until agarose particles are no longer seen. Then leave the solution to cool down to ~60°C.
     >> *To quicken the process*: To the 1 g Agarose, add about half of the 100 ml (~50 ml) of 1× TAE buffer, microwave to dissolve completely, add the rest of the TAE buffer into it. Doing this, the Gel solution immediately is brought down near to 60-70°C)
     >
-          
-<br/> 
+    >
+  <br/>
 
 - **Add 12.6 µL [**GelRed**](#gelred-protocol) dye** ~~or ethidium bromide (EtBr)~~ immediately when the flask can be hold with bare hand (50-60°C). Mix the solution well.
   > For a **126 ml agarose gel**, **12.6 µl GelRed** is added [(1:10,000 ratio)](https://biotium.com/faqs/gelred-gelgreen-how-much-to-use/).
+  >
+  <br/><br/>
+  
   
 - **Pour the cool solution into the Casting Tray** (Gasketed UV Transmissible (UVT) Gel Tray) immediately and insert a comb to form sample wells. Push bubbles, if exist, down to the end. Wait for the Gel to solidify (10-15 minutes).
-  >>The rubber gaskets on two unwalled sides of the tray are there to avoid leaking the gel when setting the gel in the tray fit within the electrophoresis unit. If not, masking tape can be used to make walls on those two sides of the gel tray.
+  > The rubber gaskets on two unwalled sides of the tray are there to avoid leaking the gel when setting the gel in the tray fit within the electrophoresis unit. If not, masking tape can be used to make walls on those two sides of the gel tray.
   >
   >> 
 <br/><br/><br/>
 # Running Gel
 - **Place the solidified Gel in an Electrophoresis unit** (make sure the unit is not plugged to the power). Ensure the comb (sample well) side of the gel is toward the Cathode side (black).
   >
-  >> DNA (negative) runs towards anode (red)
+  > DNA (negative) runs towards anode (red)
 - **Pour 1× TBE buffer** (the same buffer used in preparing the Gel) from one end of tank of the electrophoresis unit until the Gel is covered by 1-2 mm by the buffer. *Too little buffer may cause the gel to dry out during the run, while excess buffer may decrease DNA mobility and cause band distortion*.
 - Take out the comb, pulling up gently and carefully, without breaking the wells in the Gel.
 - **Prepare ladder** (pre-cut DNA with known size of fragments, also called standard or marker) **and samples** with **6× DNA loading dye** (to track how far DNA sample has traveled during the run) **and load in the respective well in the Gel**. *DNA samples taken out of -20°C freezer need to be thawed well. Vortex the samples for 2-4 seconds to ensure even distribution of DNA in the solution.*
