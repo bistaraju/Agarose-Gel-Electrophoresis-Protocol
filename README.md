@@ -15,15 +15,14 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
     >
     > **Determining Amount of Agarose to prepare a gel:**<br/> 
     >> *Gel width(cm) x gel length (cm) x gel thickness (cm) = ml (volume) of agarose*
-    >
-    >> <ins>Gel size in Thermo fisher OWL EasyCast B2 = 12×14 cm<sup>2</sup><ins>
-    >> 
-    >> | To make gel of thickness of | Agarose needed is |
-    >> |--------------------------|-------------------|
-    >> |   0.25 cm                |   42 ml           |
-    >> |   0.50 cm                |   84 ml           |
-    >> |   0.75 cm                |   126 ml          |
-    >> |   1.00 cm                |   168 ml          |
+    >>
+    >>> <ins>Gel size in Thermo fisher OWL EasyCast B2 = 12×14 cm<sup>2</sup><ins>
+    >>> | To make gel of thickness of | Agarose needed is |
+    >>> |--------------------------|-------------------|
+    >>> |   0.25 cm                |   42 ml           |
+    >>> |   0.50 cm                |   84 ml           |
+    >>> |   0.75 cm                |   126 ml          |
+    >>> |   1.00 cm                |   168 ml          |
     >
     > ∴ **126 ml** agarose prepared makes a gel of **0.75 cm** thick.
     > (**100 ml agarose** prepared makes a gel approximately **0.6 cm** thick)
@@ -39,15 +38,15 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
   > 1.26 g agarose in 126 ml 1× TBE Buffer = 1% agarose gel, and so on
   >
   >>Gel percentage controls pore size, and thereby influences the separation and resolution of nucleic acid fragments. In general, higher-percentage gels result in better separation and resolution of smaller fragments
-  >
-  >>*Mobility range of DNA fragment sizes in different concentration of Agarose gel*:
+  >>
+  >>>*Mobility range of DNA fragment sizes in different concentration of Agarose gel* ([ThermoFisher Scientific](https://assets.thermofisher.com/TFS-Assets/LED/manuals/D21304~.pdf)):
   >>|Concentration (%)| Range (kb) | Concentration (%) | Range (kb) |
-  >>|-----------------|------------|-------------------|------------|
-  >>|   0.3           | 60 to 5    |   1.2             | 7 to 0.2   |
-  >>|   0.5           | 30 to 1    |   1.5             | 4 to 0.2   |
-  >>|   0.7           | 12 to 0.8  |   2.0             | 3 to 0.1   |
-  >>|   1.0           | 10 to 0.5  |   3.0             | < 0.1      |
-  >>Source: [ThermoFisher Scientific](https://assets.thermofisher.com/TFS-Assets/LED/manuals/D21304~.pdf)   |
+  >>>|-----------------|------------|-------------------|------------|
+  >>>|   0.3           | 60 to 5    |   1.2             | 7 to 0.2   |
+  >>>|   0.5           | 30 to 1    |   1.5             | 4 to 0.2   |
+  >>>|   0.7           | 12 to 0.8  |   2.0             | 3 to 0.1   |
+  >>>|   1.0           | 10 to 0.5  |   3.0             | < 0.1      |
+  >>>
   >
 <br/>
 
