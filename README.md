@@ -40,14 +40,14 @@ Protocol for conducting Agarose Gel Electrophoresis in [**Forest Genetics Lab**]
   >
   >>Gel percentage controls pore size, and thereby influences the separation and resolution of nucleic acid fragments. In general, higher-percentage gels result in better separation and resolution of smaller fragments
   >
-  >*Mobility range of DNA fragment sizes in different concentration of Agarose gel*:
-  >|Concentration (%)| Range (kb) | Concentration (%) | Range (kb) |
-  >|-----------------|------------|-------------------|------------|
-  >|   0.3           | 60 to 5    |   1.2             | 7 to 0.2   |
-  >|   0.5           | 30 to 1    |   1.5             | 4 to 0.2   |
-  >|   0.7           | 12 to 0.8  |   2.0             | 3 to 0.1   |
-  >|   1.0           | 10 to 0.5  |   3.0             | < 0.1      |
-  >Source: [ThermoFisher Scientific](https://assets.thermofisher.com/TFS-Assets/LED/manuals/D21304~.pdf)   |
+  >>*Mobility range of DNA fragment sizes in different concentration of Agarose gel*:
+  >>|Concentration (%)| Range (kb) | Concentration (%) | Range (kb) |
+  >>|-----------------|------------|-------------------|------------|
+  >>|   0.3           | 60 to 5    |   1.2             | 7 to 0.2   |
+  >>|   0.5           | 30 to 1    |   1.5             | 4 to 0.2   |
+  >>|   0.7           | 12 to 0.8  |   2.0             | 3 to 0.1   |
+  >>|   1.0           | 10 to 0.5  |   3.0             | < 0.1      |
+  >>Source: [ThermoFisher Scientific](https://assets.thermofisher.com/TFS-Assets/LED/manuals/D21304~.pdf)   |
   >
 <br/>
 
